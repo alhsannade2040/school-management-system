@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f10350bb-5fcd-4171-b6cb-4a0ae31714a8" name="Changes" comment="the first step">
+    <list default="true" id="f10350bb-5fcd-4171-b6cb-4a0ae31714a8" name="Changes" comment="after teacher and students">
+      <change afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school management system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/school management system.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/teacher.java" afterDir="false" />
     </list>
@@ -13,6 +16,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,12 +30,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.20.0/templates/invisible-project/src/App.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/school management system.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/school.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/teacher.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="java" pattern="" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CedUQsjj8QZxYwfVfPdOz7IqdH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -37,7 +60,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "copyright"
+    "last_opened_file_path": "D:/oop java language/school management system",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -46,6 +73,24 @@
     ]
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="user" />
+      <command value="UserTestData" />
+      <command value="open school management system" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="java" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="school management system" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659180999654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="after teacher and students">
+      <created>1659197062601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659197062601</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="the first step" />
+    <MESSAGE value="after teacher and students" />
+    <option name="LAST_COMMIT_MESSAGE" value="after teacher and students" />
   </component>
 </project>

@@ -2,8 +2,17 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$USER_HOME$">
+      <sourceFolder url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.19.1/templates/invisible-project/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.20.0/templates/invisible-project/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.35.2/resources/maven-wrapper/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.36.0/resources/maven-wrapper/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$" type="java-resource" />
+    </content>
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

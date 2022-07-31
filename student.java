@@ -6,16 +6,17 @@ public class student {
     private float greade;
     //    private int attendence;
     private int paidFrees;
-    private freesTotal;
+    private int freesTotal;
 //    private fees;
 
-    public student(int id, string name, float greade, int paidFrees) {
+    public student(int id, string name, float greade, int paidFrees,int freesTotal) {
         paidFrees=0;
         freesTotal=3000;
         this.id = id;
         this.name = name;
         this.greade = greade;
         this.paidFrees = paidfrees;
+        this.freesTotal=freesTotal
     }
 
 
@@ -48,6 +49,13 @@ public class student {
 
     public int getPaidFrees() {
         return paidFrees;
+    }
+
+    public int getFreesTotal(){
+        return PaidFrees();
+    }
+    public getRemainingFees(){
+      return freesTotal-updateFeetsPaied();
     }
 }
 
